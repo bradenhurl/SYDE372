@@ -1,6 +1,6 @@
 % SYDE 372 - Lab 1
-% Braden Hurl - 20406936
-% Nicholas Chen - 20375332
+% Braden Hurl
+% Nicholas Chen
 
 clc;
 close all;
